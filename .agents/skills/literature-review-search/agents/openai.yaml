@@ -1,0 +1,7 @@
+interface:
+  display_name: "文献调研综述"
+  short_description: "检索、核验并写通俗易懂的文献综述"
+  default_prompt: "使用 $literature-review-search 完成一次有证据链的文献检索综述，并解释基础名词与公式。"
+
+policy:
+  allow_implicit_invocation: true

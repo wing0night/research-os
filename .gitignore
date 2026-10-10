@@ -8,6 +8,11 @@
 *.pt
 *.ckpt
 *.safetensors
+*.wav
+*.mp3
+*.flac
+*.mid
+*.midi
 checkpoints/
 weights/
 data/
@@ -17,3 +22,13 @@ mlruns/
 __pycache__/
 .venv/
 *.log
+
+tmp/
+code/
+
+
+
+
+
+
+
